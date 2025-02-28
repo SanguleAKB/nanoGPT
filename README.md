@@ -28,6 +28,6 @@
      ![image](https://github.com/user-attachments/assets/e4079d9e-415c-42cc-8ec0-3292edb0e7d1)
 
 # Training the Decoder Model: 
-    Diagram : 
+  Let's see this the Transformer architecture: 
     ![image](https://github.com/user-attachments/assets/0f4db3d1-27c5-49bb-806e-27db7022eb6a)
 
