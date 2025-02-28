@@ -26,3 +26,8 @@
     - Adam: Adam optimizer (short for Adaptive Moment Estimation) combines the benefits of two other optimization techniques: Momentum and RMSprop. It is widely used.
     - Validation loss for 100 epoch.
      ![image](https://github.com/user-attachments/assets/e4079d9e-415c-42cc-8ec0-3292edb0e7d1)
+
+# Training the Decoder Model: 
+    Diagram : 
+    ![image](https://github.com/user-attachments/assets/0f4db3d1-27c5-49bb-806e-27db7022eb6a)
+
